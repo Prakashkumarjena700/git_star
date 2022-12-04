@@ -6,7 +6,7 @@ on:
     branches:
       -master
 
-jons:
+jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
